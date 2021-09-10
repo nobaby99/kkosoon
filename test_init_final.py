@@ -1487,7 +1487,7 @@ class mainCog(commands.Cog):
 					)
 			embed.add_field(
 					name="----- Specs to. -----",
-					value= '```총무, 옹님, 공부중, 꽃신, 별빛, 크마, D.H.Kim, K.H.Sim, 쿠쿠, 오브로드, D.H.Oh, Bit, 팥빵, 천려, 이파리, 도미, 일깡, B.Park, 꼬순```'
+					value= '```총무, 옹님, 공부중, 꽃신, 별빛, 크마, D.H.Kim, K.H.Sim, 쿠쿠, 오브로드, D.H.Oh, Bit, 팥빵, 천려, 이파리, 꼬순, 도미, 일깡, B.Park```'
 					)
 			await ctx.send(embed=embed, tts=False)
 		else:
